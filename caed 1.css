@@ -1,0 +1,81 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    font-family:  'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-color: #333;
+    width: 100vw;
+    height: 100vh;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+.caed-img{
+    padding: 10px;
+}
+.card-design{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.main1{
+    background-color: white;
+    border-radius: 10px;
+    width: 350px;
+    height: 400px;
+    border: 1px solid black;
+    margin-left: 30px;
+}
+.main2{
+    background-color: white;
+     border-radius: 10px;
+    width: 350px;
+    height: 400px;
+    border: 1px solid black;
+    margin-left: 30px;
+}
+.main3{
+    background-color: white; border-radius: 10px;
+    width: 350px;
+    height: 400px;
+    border: 1px solid black;
+    margin-left: 30px;
+}
+.btn1{
+    font-weight: bold;
+    margin: 20px;
+    padding: 8px;
+    border-radius: 10px;
+color: #f58aad;
+background-color: #fde2e4;
+    border: 1px solid black;
+    border-style: none;
+}
+.btn3{
+    font-weight: bold;
+    margin: 20px;
+    padding: 8px;
+    border-radius: 10px;
+color: #a0c4ff;
+background-color: #bde0fe;
+    border: 1px solid black;
+    border-style: none;
+}
+.btn2{
+    font-weight: bold;
+    margin: 20px;
+    padding: 8px;
+    border-radius: 10px;
+color: #ff99c8;
+background-color:  #ffc8dd;
+    border: 1px solid black;
+    border-style: none;
+}
+.card-text p{
+    color: #8b8686;
+    font-weight: bold;
+    padding: 10px;
+}
